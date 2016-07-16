@@ -1,0 +1,28 @@
+name: daytona550
+favicon: null
+layout_spectrum: 0.06544994609430432
+typography_spectrum: 0.2194624610710889
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7358420020900667
+  lightness: 0.25275600305758417
+  saturation: 0.223317657597363
+  rhythmicContrast: 0.3917225517798215
+purpose: []
